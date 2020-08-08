@@ -4,7 +4,7 @@ In exchange we will continue updating this addon and offering support through Gi
 
 Thank you for your support!
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAUA6QJJQ4HVS"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"></a>
+
 
 
 -----------------------------------------------------------------------------------
